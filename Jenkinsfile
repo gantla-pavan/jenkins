@@ -62,7 +62,7 @@ pipeline {
             //     }
             // }
             when { triggeredBy 'SCMTrigger'
-              expressions { "$params.DEPLOY" }
+              expression { "$params.DEPLOY" }
             }
 
 
