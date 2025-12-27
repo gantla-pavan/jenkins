@@ -1,0 +1,67 @@
+SHELL=/bin/bash
+RUN_TESTS_DISPLAY_URL=http://jenkins.daws86s.cyou:8080/job/Hello-pipeline/5/display/redirect?page=tests
+HISTSIZE=10000
+JENKINS_SERVER_COOKIE=durable-3128008ceb839638f349bfc32a94a474d34608f358d2d874d361641924572ffc
+GIT_PREVIOUS_SUCCESSFUL_COMMIT=c73d48b9f5f6a10d9027126e95586af7769eaed9
+HISTTIMEFORMAT=%d/%m/%y %T 
+AWS_DEFAULT_REGION=us-east-1
+RUN_CHANGES_DISPLAY_URL=http://jenkins.daws86s.cyou:8080/job/Hello-pipeline/5/display/redirect?page=changes
+HUDSON_HOME=/var/lib/jenkins
+PWD=/home/ec2-user/jenkins/workspace/Hello-pipeline
+LOGNAME=ec2-user
+XDG_SESSION_TYPE=tty
+BUILD_URL=http://jenkins.daws86s.cyou:8080/job/Hello-pipeline/5/
+ANSIBLE_DEPRECATION_WARNINGS=False
+JOB_URL=http://jenkins.daws86s.cyou:8080/job/Hello-pipeline/
+BUILD_NUMBER=5
+MOTD_SHOWN=pam
+JENKINS_NODE_COOKIE=116a7775-80e1-4883-9e17-1724de912b10
+BUILD_DISPLAY_NAME=#5
+HOME=/home/ec2-user
+LANG=C.UTF-8
+ANSIBLE_FORCE_COLOR=1
+JENKINS_URL=http://jenkins.daws86s.cyou:8080/
+JOB_BASE_NAME=Hello-pipeline
+PROMPT_COMMAND=$(history -w)
+JOB_NAME=Hello-pipeline
+RUN_DISPLAY_URL=http://jenkins.daws86s.cyou:8080/job/Hello-pipeline/5/display/redirect
+SSH_CONNECTION=172.31.4.146 37176 172.31.7.35 22
+JOB_DISPLAY_URL=http://jenkins.daws86s.cyou:8080/job/Hello-pipeline/display/redirect
+WORKSPACE=/home/ec2-user/jenkins/workspace/Hello-pipeline
+GIT_PREVIOUS_COMMIT=c73d48b9f5f6a10d9027126e95586af7769eaed9
+HUDSON_URL=http://jenkins.daws86s.cyou:8080/
+XDG_SESSION_CLASS=user
+NODE_NAME=AGENT-1
+LESSOPEN=||/usr/bin/lesspipe.sh %s
+USER=ec2-user
+HUDSON_SERVER_COOKIE=1ac32cc4d6acb86d
+GIT_URL=https://github.com/gantla-pavan/jenkins.git
+SHLVL=2
+BUILD_TAG=jenkins-Hello-pipeline-5
+EXECUTOR_NUMBER=2
+HUDSON_COOKIE=6e699400-f1eb-47fb-a892-63b0022b9d66
+SYSTEMD_PAGER=cat
+XDG_SESSION_ID=6
+JENKINS_HOME=/var/lib/jenkins
+XDG_RUNTIME_DIR=/run/user/1001
+SSH_CLIENT=172.31.4.146 37176 22
+REQUESTS_CA_BUNDLE=/etc/pki/tls/certs/ca-bundle.crt
+GIT_COMMIT=3496f3867280590422908e96569d64063ba1f862
+which_declare=declare -f
+NODE_LABELS=AGENT-1
+STAGE_NAME=Build
+AWS_CA_BUNDLE=/etc/pki/tls/certs/ca-bundle.crt
+WORKSPACE_TMP=/home/ec2-user/jenkins/workspace/Hello-pipeline@tmp
+XDG_DATA_DIRS=/home/ec2-user/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share
+PATH=/home/ec2-user/.local/bin:/home/ec2-user/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin
+RUN_ARTIFACTS_DISPLAY_URL=http://jenkins.daws86s.cyou:8080/job/Hello-pipeline/5/display/redirect?page=artifacts
+CI=true
+DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1001/bus
+course=Jenkins
+GIT_BRANCH=origin/main
+BUILD_ID=5
+OLDPWD=/home/ec2-user
+BASH_FUNC_which%%=() {  ( alias;
+ eval ${which_declare} ) | /usr/bin/which --tty-only --read-alias --read-functions --show-tilde --show-dot $@
+}
+_=/usr/bin/env
